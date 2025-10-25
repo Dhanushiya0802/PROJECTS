@@ -1,0 +1,8 @@
+{
+  "cc_plains": {
+    "target": {
+      "object": "REGIONS",
+      "schema": "PLAINS"
+    }
+  }
+}
